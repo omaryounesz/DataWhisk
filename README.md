@@ -18,7 +18,7 @@ matplotlib & wordcloud: Data visualization
 Installation
 Clone the repository
 
-git clone https://github.com/abaan-noman/datawhisk.git
+git clone https://github.com/omaryounesz/datawhisk.git
 cd datawhisk
 Install dependencies
 
