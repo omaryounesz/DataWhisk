@@ -1,0 +1,13 @@
+{
+  "pricing": {
+    "average_rating": 3.3033333333333332,
+    "keywords_from_negative_reviews": {
+      "atmosphere": 125,
+      "cheese": 119,
+      "food": 171,
+      "meat": 122,
+      "service": 148
+    },
+    "suggestion": "Focus on improving pricing. Consider addressing concerns around: atmosphere, cheese, food, meat, service."
+  }
+}
